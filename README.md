@@ -12,6 +12,29 @@
 </div>
 
 
+<div align="center">
+
+<pre style="
+display: inline-block;
+text-align: center;
+font-size: clamp(3px, 1.2vw, 8.5px);
+line-height: 1.15;
+font-weight: bold;
+letter-spacing: -1px;
+max-width: 100%;
+overflow: hidden;
+">
+███████╗██╗   ██╗███╗   ███╗███╗   ███╗ █████╗ ██╗██╗   ██╗ █████╗     ███████╗██╗  ██╗ ██████╗  █████╗ ██╗██████╗ 
+██╔════╝██║   ██║████╗ ████║████╗ ████║██╔══██╗██║╚██╗ ██╔╝██╔══██╗    ██╔════╝██║  ██║██╔═══██╗██╔══██╗██║██╔══██╗
+███████╗██║   ██║██╔████╔██║██╔████╔██║███████║██║ ╚████╔╝ ███████║    ███████╗███████║██║   ██║███████║██║██████╔╝
+╚════██║██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ╚██╔╝  ██╔══██║    ╚════██║██╔══██║██║   ██║██╔══██║██║██╔══██╗
+███████║╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║   ██║   ██║  ██║    ███████║██║  ██║╚██████╔╝██║  ██║██║██████╔╝
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ 
+</pre>
+
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
@@ -50,14 +73,13 @@ Adobe Illustrator, Adobe After Effects, Blender, Canva
 [![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 [![Adobe After Effects](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-[![Canva](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
 
 
 ```ini
 [MACHINE LEARNING & DEEP LEARNING]
 PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 ```
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 
 </div>
 
