@@ -21,7 +21,7 @@ overflow: hidden;
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Khi;AI+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
 ```bash
@@ -81,19 +81,33 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 | 🔗 [NoiseLab](https://github.com) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
 
 ---
-## `> skills.query()`
-</div>
+<h2 align="center"><code>&gt; skills.query()</code></h2>
 
 ```sql
 SELECT skill_name, proficiency_level 
 FROM summaiya_skills 
 WHERE category IN ('Languages', 'Design', 'Data');
-
-Output:
-Agentic AI, Web Development, Graphic Design, Data Analysis, Deep Learning, Full-Stack Development 
-3 rows in set (0.01 sec)
-*/
 ```
+
+<br>
+
+### 📊 Query Results (0.01 sec)
+<div align="left">
+<strong><font color="#FFFFFF">Agentic AI</font></strong> — <kbd><font color="#22C55E"><b>LangChain</b></font></kbd> · <kbd><font color="#22C55E"><b>CrewAI</b></font></kbd> · <kbd><font color="#22C55E"><b>Autogen</b></font></kbd>
+<br>
+<strong><font color="#FFFFFF">Web and Full-Stack</font></strong> — <kbd><font color="#22C55E"><b>JavaScript</b></font></kbd> · <kbd><font color="#22C55E"><b>HTML5</b></font></kbd> · <kbd><font color="#22C55E"><b>CSS3</b></font></kbd> · <kbd><font color="#22C55E"><b>React</b></font></kbd>
+<br>
+<strong><font color="#FFFFFF">Graphic Design</font></strong> — <kbd><font color="#22C55E"><b>After Effects</b></font></kbd> · <kbd><font color="#22C55E"><b>Illustrator</b></font></kbd> · <kbd><font color="#22C55E"><b>Blender</b></font></kbd> · <kbd><font color="#22C55E"><b>Canva</b></font></kbd>
+<br>
+<strong><font color="#FFFFFF">Data Analysis and R</font></strong> — <kbd><font color="#22C55E"><b>R</b></font></kbd> · <kbd><font color="#22C55E"><b>SQL</b></font></kbd> · <kbd><font color="#22C55E"><b>Pandas</b></font></kbd> · <kbd><font color="#22C55E"><b>NumPy</b></font></kbd> · <kbd><font color="#22C55E"><b>Plotly</b></font></kbd>
+<br>
+<strong><font color="#FFFFFF">Deep Learning</font></strong> — <kbd><font color="#22C55E"><b>PyTorch</b></font></kbd> · <kbd><font color="#22C55E"><b>TensorFlow</b></font></kbd> · <kbd><font color="#22C55E"><b>Python</b></font></kbd> · <kbd><font color="#22C55E"><b>C++</b></font></kbd> · <kbd><font color="#22C55E"><b>C</b></font></kbd>
+</div>
+
+
+---
+
+
 ---
 <div align="center">
 <h2><code>☆ in_progress</code></h2>  
@@ -132,6 +146,15 @@ if (wanna_collab) connect_via_links();
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sumshoaib2019@gmail.com)
 
 ---
+## `» contribution.snake`
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+---
 ## `⚬ github.stats`
 <br>
 <!-- Centered GitHub Stats -->
@@ -142,14 +165,7 @@ if (wanna_collab) connect_via_links();
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sumsh123&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
----
 
-## `» Repo.snake`
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 </div>
