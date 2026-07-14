@@ -57,7 +57,7 @@ Python, JavaScript, HTML, CSS, C++, C, R, SQL
 
 ```ini
 [DESIGN TOOLS]
-Adobe Illustrator, Adobe After Effects, Blender, Canva
+Adobe Illustrator, Adobe After Effects, Blender, Canva 
 ```
 [![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 [![Adobe After Effects](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
@@ -175,6 +175,27 @@ if (wanna_collab) connect_via_links();
 </p>
 
 
+---
+<div align="center">
+
+<h2>🎮 Contribution Brick Breaker</h2>
+
+<p>
+A Brick Breaker game where my GitHub contribution history becomes the level.
+</p>
+
+<br>
+
+<a href="https://github.com/sumsh123/ContributionBrickBreaker">
+  <img src="https://img.shields.io/badge/PLAY%20THE%20GAME-ff4fd8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RAYLIB-C%20PROJECT-7b00ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/GITHUB-CONTRIBUTION%20BASED-22c55e?style=flat-square"/>
+
+</div>
 ---
 </div>
 
