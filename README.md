@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://demolab.com" alt="SUMMAIYA SHOAIB" />
+  <img src="https://demolab.com" alt="SUMMAIYA+SHOAIB" />
 </h1>
 
 <p align="center">
