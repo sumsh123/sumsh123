@@ -21,11 +21,6 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 </h1>
 
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing Subtitle" />
-</p>
-
-
 ---
 
 ```bash
