@@ -179,7 +179,11 @@ if (wanna_collab) connect_via_links();
 </div>
 
 
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg" width="900">
+
+</div>
 
 
 
