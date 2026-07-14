@@ -47,6 +47,15 @@ Collab : OPEN — reach out anytime 📬
   <img src="https://shields.io" alt="C++" />
 </p>
 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 ### Frameworks & Tools
 <p align="left">
   <img src="https://shields.io" alt="React" />
