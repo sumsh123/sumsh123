@@ -21,7 +21,10 @@ overflow: hidden;
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Khi;AI+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2600&pause=900&color=00BFFF&center=true&vCenter=true&multiline=false&width=780&height=35&lines=%3E+COMPUTER+SCIENCE+STUDENT+AT+FAST+KHI+%E2%96%88;%3E+AI+|+FULL+STACK+DEV+|+DATA+ANALYSIS++%E2%96%88;%3E+OPEN+TO+OPPORTUNITIES+%E2%96%88" />
+</div>
+
 
 ---
 ```bash
