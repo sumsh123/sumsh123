@@ -14,6 +14,7 @@
 
 <!-- <p align="center">
   <strong>she/her · Open to collabs ✨</strong>
+  
 </p> -->
 <h1 align="center">
 <img src="https://readne-typing-svg.herokuapp.com/?
