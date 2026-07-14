@@ -178,6 +178,7 @@ if (wanna_collab) connect_via_links();
 ---
 </div>
 
+<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
