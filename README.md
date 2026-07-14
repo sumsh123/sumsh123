@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://demolab.com[YOUR_NAME_IN_ALL_CAPS]" alt="ASCII Banner" />
+  <img src="https://demolab.com" alt="Mehar Akbar Banner" />
 </h1>
 
 <p align="center">
@@ -11,17 +11,17 @@
 ```bash
 visitor@github:~\$ cat ./about_me.txt
 
-Name   : [Your Name]
-Handle : [YourUsername]
-Uni    : [Your University/Company]
-Focus  : [Your Specialization, e.g., AI - Full-Stack Web]
-Status : ██████████░░ Learning every day
+Name   : Mehar Akbar
+Handle : Machaudhary2024
+Uni    : FAST-NUCES Faisalabad
+Focus  : AI - Computer Vision - Full-Stack Web - Mobile
+Status : █▉░░░░░░░░ Learning every day
 Collab : OPEN — reach out anytime 📬
 ```
 
 ---
 
-## 💻 tech.stack
+## 🚀 tech.stack
 
 ### Languages
 <p align="left">
@@ -47,7 +47,7 @@ Collab : OPEN — reach out anytime 📬
 ## 📊 github.stats
 
 <p align="center">
-  <img src="https://herokuapp.com[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -56,9 +56,11 @@ Collab : OPEN — reach out anytime 📬
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔗 **[Project Name 1]** | Brief description of your project | `JavaScript` `React` |
-| 🔗 **[Project Name 2]** | Brief description of your project | `Python` `PyTorch` |
-| 🔗 **[Project Name 3]** | Brief description of your project | `HTML` `CSS` |
+| 🔗 [Wombly](https://github.com) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
+| 🔗 [DCGAN-WGANgp](https://github.com) | GAN comparison on anime/Pokémon - BCE vs Wasserstein loss | `Python` `PyTorch` |
+| 🔗 [sketch-to-photo-pix2pix](https://github.com) | Conditional GAN - U-Net + PatchGAN for sketch->photo | `Python` `PyTorch` |
+| 🔗 [NSMNIA-wardrobe](https://github.com) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
+| 🔗 [NoiseLab](https://github.com) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
 
 ---
 
@@ -66,9 +68,9 @@ Collab : OPEN — reach out anytime 📬
 
 ```json
 current = {
-  "learning" : ["Topic A", "Topic B"],
-  "building" : "Next cool project — stay tuned 🚀",
-  "reading"  : "Book Title or Documentation name",
-  "goal_2026" : "Ship impactful projects & land an awesome role"
+  "learning"  : ["Advanced GANs", "Diffusion Models", "MLOps"],
+  "building"  : "Next cool project — stay tuned 🚀",
+  "reading"   : "Deep Learning by Goodfellow, Bengio & Courville",
+  "goal_2025" : "Ship 3 impactful ML projects & land a great internship"
 }
 ```
