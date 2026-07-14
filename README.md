@@ -15,7 +15,11 @@
 <!-- <p align="center">
   <strong>she/her · Open to collabs ✨</strong>
 </p> -->
-
+<h1 align="center">
+  <a href="https://git.io">
+    <img src="https://herokuapp.com!+👋;+I'm+Pedro+Muniz!;" />
+  </a>
+</h1>
 
 
 <p align="center">
