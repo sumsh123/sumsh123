@@ -71,19 +71,23 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 
 
-
 ---
-## `★ top.projects` 
+## `★ top.projects`
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🔗 [Wombly](https://github.com) | Maternal health & toddler care mobile app | `JavaScript` `React Native` |
-| 🔗 [DCGAN-WGANgp](https://github.com) | GAN comparison on anime/Pokémon - BCE vs Wasserstein loss | `Python` `PyTorch` |
-| 🔗 [sketch-to-photo-pix2pix](https://github.com) | Conditional GAN - U-Net + PatchGAN for sketch->photo | `Python` `PyTorch` |
-| 🔗 [NSMNIA-wardrobe](https://github.com) | E-commerce front-end for a Pakistani fashion brand | `HTML` `CSS` |
-| 🔗 [NoiseLab](https://github.com) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
+| 🔗 [Multimodal-RAG](https://github.com/sumsh123/Multimodal-RAG) | Multimodal RAG system for research paper question answering. | `Python` `LangChain` `ChromaDB` `Gemini` `Streamlit` |
+| 🔗 [Retrieval-Augmented-Generation-chatbot](https://github.com/sumsh123/Retrieval-Augmented-Generation-chatbot) | RAG chatbot comparing multiple chunking and retrieval strategies. | `Python` `LangChain` `BM25` `ChromaDB` `Groq` |
+| 🔗 [MNIST-Neural-Network-From-Scratch](https://github.com/sumsh123/MNIST-Neural-Network-From-Scratch) | Neural network built from scratch for digit classification. | `Python` `NumPy` |
+| 🔗 [AI-Image-Detector](https://github.com/sumsh123/AI-Image-Detector) | YOLO-powered object detection web application. | `Python` `YOLOv8` `OpenCV` `Streamlit` |
+| 🔗 [AI-Model-Explorer](https://github.com/sumsh123/AI-Model-Explorer) | Database-driven platform for exploring AI models. | `PHP` `MySQL` `HTML/CSS` `JavaScript` |
+| 🔗 [raylib-arcade-games](https://github.com/sumsh123/raylib-arcade-games) | Classic arcade games built with the Raylib graphics library. | `C` `Raylib` |
+| 🔗 [Hotel-Hub](https://github.com/sumsh123/Hotel-Hub) | Object-oriented hotel management system. | `C++` `OOP` |
 
 ---
+
+
+
 <h2 align="center"><code>&gt; skills.query()</code></h2>
 
 ```sql
@@ -92,10 +96,10 @@ FROM summaiya_skills
 WHERE category IN ('Languages', 'Design', 'Data');
 ```
 
-<br>
-
-### 📊 Query Results (0.01 sec)
 <div align="left">
+  
+### 🗎 Query Results (0.01 sec)
+
 <strong><font color="#FFFFFF">Agentic AI</font></strong> — <kbd><font color="#22C55E"><b>LangChain</b></font></kbd> · <kbd><font color="#22C55E"><b>CrewAI</b></font></kbd> · <kbd><font color="#22C55E"><b>Autogen</b></font></kbd>
 <br>
 <strong><font color="#FFFFFF">Web and Full-Stack</font></strong> — <kbd><font color="#22C55E"><b>JavaScript</b></font></kbd> · <kbd><font color="#22C55E"><b>HTML5</b></font></kbd> · <kbd><font color="#22C55E"><b>CSS3</b></font></kbd> · <kbd><font color="#22C55E"><b>React</b></font></kbd>
@@ -117,16 +121,17 @@ WHERE category IN ('Languages', 'Design', 'Data');
 </div>
 
 ```json
-current = {
-  "learning"  : ["Advanced GANs", "Diffusion Models", "MLOps"],
-  "building"  : "Next cool project — stay tuned 🚀",
-  "reading"   : "Deep Learning by Goodfellow, Bengio & Courville",
-  "goal_2026" : "Ship impactful ML projects & expand my skill set"
+now = {
+  "curious_about" : ["Artificial Intelligence", "Data Science", "Creative Computing"],
+  "currently_making" : "Turning ideas into projects — from ML experiments to interactive applications",
+  "always_exploring" : "New technologies, better ways to solve problems, and creative approaches to coding",
+  "vision" : "Build things that combine technology, creativity, and real-world impact"
 }
 ```
 ---
 <div align="center">
 <h2><code>➛ activity.graph</code></h2>
+  
 [![Summaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumsh123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
