@@ -16,9 +16,8 @@
   <strong>she/her · Open to collabs ✨</strong>
 </p> -->
 <h1 align="center">
-  <a href="https://git.io">
-    <img src="https://herokuapp.com!+👋;+I'm+Pedro+Muniz!;" />
-  </a>
+<img src="https://readne-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines-Hi+There!+;+I'm+Pedro+Muniz!;" />
 </h1>
 
 
