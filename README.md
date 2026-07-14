@@ -1,20 +1,20 @@
+<div align="center">
 
-<pre style="display: inline-block; text-align: left; font-size: 8.5px; line-height: 10px; font-weight: bold; letter-spacing: -1px;">
+<pre style="display: inline-block; text-align: center; font-size: 8.5px; line-height: 10px; font-weight: bold; letter-spacing: -1px;">
 ███████╗██╗   ██╗███╗   ███╗███╗   ███╗ █████╗ ██╗██╗   ██╗ █████╗     ███████╗██╗  ██╗ ██████╗  █████╗ ██╗██████╗ 
 ██╔════╝██║   ██║████╗ ████║████╗ ████║██╔══██╗██║╚██╗ ██╔╝██╔══██╗    ██╔════╝██║  ██║██╔═══██╗██╔══██╗██║██╔══██╗
 ███████╗██║   ██║██╔████╔██║██╔████╔██║███████║██║ ╚████╔╝ ███████║    ███████╗███████║██║   ██║███████║██║██████╔╝
 ╚════██║██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ╚██╔╝  ██╔══██║    ╚════██║██╔══██║██║   ██║██╔══██║██║██╔══██╗
 ███████║╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║   ██║   ██║  ██║    ███████║██║  ██║╚██████╔╝██║  ██║██║██████╔╝
 ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ 
-                                                                                                                   
 </pre>
+
 </div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 ---
-
 ```bash
 viewer@github:~\$ gcc ABOUT_ME.c -o profile && ./profile
 
@@ -26,8 +26,12 @@ Developer summaiya = {
 };
 
 ```
+---
+
+<div align="center">
 
 ## `☰ Tech.stack`
+
 ```ini
 [LANGUAGES]
 Python, JavaScript, HTML, CSS, C++, C, R, SQL
@@ -43,7 +47,10 @@ Python, JavaScript, HTML, CSS, C++, C, R, SQL
 [DESIGN TOOLS]
 Adobe Illustrator, Adobe After Effects, Blender, Canva
 ```
-[![My Skills](https://skillicons.dev/icons?i=ai,ae,blender,canva)](https://skillicons.dev) <br>
+[![Adobe Illustrator](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Adobe After Effects](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![Canva](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
 
 
 ```ini
@@ -52,20 +59,10 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 ```
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy)](https://skillicons.dev) 
 
-
-
----
-## `» Repo.view`
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
-
 
 ---
-## `★ top.projects`
+## `★ top.projects` 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -76,7 +73,7 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 | 🔗 [NoiseLab](https://github.com) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
 
 ---
-## `☆ currently.working_on`
+## `☆ in_progress`
 
 ```json
 current = {
@@ -90,11 +87,12 @@ current = {
 
 ## `➛ activity.graph` <br>
 [![Summaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumsh123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 
 ---
 
-## `✉︎ contact.init()`
+## `✉︎ contact.load()`
 
 ```python
 contact = {
@@ -106,10 +104,12 @@ contact = {
 if (wanna_collab) connect_via_links();
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/summaiya-shoaib-810431420/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumshoaib2019@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/feed/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white)](mailto:sumshoaib2019@gmail.com)
 
 ---
-## `⚬ github.stats` <br>
+## `⚬ github.stats`
+<br>
 <!-- Centered GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=sumsh123&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -118,6 +118,16 @@ if (wanna_collab) connect_via_links();
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sumsh123&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+---
+
+## `» Repo.snake`
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 
 
