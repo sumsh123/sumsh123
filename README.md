@@ -1,6 +1,5 @@
-█▓▒▒░░░Summaiya Shoaib░░░▒▒▓█                                                   
-                                                                                                                   
-
+<h1 align="center">𝚂𝚞𝚖𝚖𝚊𝚒𝚢𝚊 𝚂𝚑𝚘𝚊𝚒𝚋                                                                                   
+</h1>
 
 <p align="center">
   <strong>she/her · Open to collabs ✨</strong>
