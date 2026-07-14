@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://demolab.com" alt="Mehar Akbar Banner" />
+  <img src="https://demolab.com" alt="Animated Banner" />
 </h1>
 
 <p align="center">
