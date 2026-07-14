@@ -11,6 +11,8 @@
 </div>
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+FAST-NUCES+Fsd;AI+%7C+Computer+Vision+%7C+Full-Stack+Dev;Building+clean%2C+functional+software+%F0%9F%9F%A2;she%2Fher+%C2%B7+Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
+
 ---
 
 ```bash
@@ -26,18 +28,30 @@ Developer summaiya = {
 ```
 
 ## `☰ Tech.stack`
-Languages<br> <br>
+```ini
+[LANGUAGES]
+Python, JavaScript, HTML, CSS, C++, C, R, SQL
+```
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
-<br>
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
+```ini
+[DESIGN TOOLS]
+Adobe Illustrator, Adobe After Effects, Blender, Canva
+```
+[![My Skills](https://skillicons.dev/icons?i=ai,ae,blender,canva)](https://skillicons.dev) <br>
 
 
-Design<br> <br>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) <br>
+```ini
+[MACHINE LEARNING & DEEP LEARNING]
+PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
+```
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,numpy)](https://skillicons.dev) 
 
-
-ML/DL <br> <br>
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)<br>
 
 
 ---
