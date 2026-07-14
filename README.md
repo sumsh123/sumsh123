@@ -1,19 +1,5 @@
 <div align="center">
 
-<pre style="display: inline-block; text-align: center; font-size: 8.5px; line-height: 10px; font-weight: bold; letter-spacing: -1px;">
-███████╗██╗   ██╗███╗   ███╗███╗   ███╗ █████╗ ██╗██╗   ██╗ █████╗     ███████╗██╗  ██╗ ██████╗  █████╗ ██╗██████╗ 
-██╔════╝██║   ██║████╗ ████║████╗ ████║██╔══██╗██║╚██╗ ██╔╝██╔══██╗    ██╔════╝██║  ██║██╔═══██╗██╔══██╗██║██╔══██╗
-███████╗██║   ██║██╔████╔██║██╔████╔██║███████║██║ ╚████╔╝ ███████║    ███████╗███████║██║   ██║███████║██║██████╔╝
-╚════██║██║   ██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ╚██╔╝  ██╔══██║    ╚════██║██╔══██║██║   ██║██╔══██║██║██╔══██╗
-███████║╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██║   ██║   ██║  ██║    ███████║██║  ██║╚██████╔╝██║  ██║██║██████╔╝
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ 
-</pre>
-
-</div>
-
-
-<div align="center">
-
 <pre style="
 display: inline-block;
 text-align: center;
@@ -81,7 +67,7 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 ```
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 
-</div>
+
 
 ---
 ## `★ top.projects` 
@@ -95,7 +81,23 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 | 🔗 [NoiseLab](https://github.com) | Interactive Streamlit app for image noise exploration | `Python` `Streamlit` |
 
 ---
-## `☆ in_progress`
+## `> skills.query()`
+</div>
+
+```sql
+SELECT skill_name, proficiency_level 
+FROM summaiya_skills 
+WHERE category IN ('Languages', 'Design', 'Data');
+
+Output:
+Agentic AI, Web Development, Graphic Design, Data Analysis, Deep Learning, Full-Stack Development 
+3 rows in set (0.01 sec)
+*/
+```
+---
+<div align="center">
+<h2><code>☆ in_progress</code></h2>  
+</div>
 
 ```json
 current = {
@@ -106,8 +108,8 @@ current = {
 }
 ```
 ---
-
-## `➛ activity.graph` <br>
+<div align="center">
+<h2><code>➛ activity.graph</code></h2>
 [![Summaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumsh123&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
@@ -150,7 +152,7 @@ if (wanna_collab) connect_via_links();
 </div>
 
 ---
-
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
