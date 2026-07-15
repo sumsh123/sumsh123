@@ -72,6 +72,10 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 
 
+</div>
+
+<div align="center">
+
 ---
 ## `★ top.projects`
 
@@ -182,7 +186,7 @@ if (wanna_collab) connect_via_links();
 
 <div align="center">
 
-<img width="1000" height="500" alt="Brick_Break" src="https://github.com/user-attachments/assets/3967bac4-5156-4afe-87ed-cc20bd4d50ee" />
+<img width="900" height="420" alt="Brick_Break" src="https://github.com/user-attachments/assets/3967bac4-5156-4afe-87ed-cc20bd4d50ee" />
 
 </div>
 
