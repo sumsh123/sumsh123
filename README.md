@@ -181,12 +181,7 @@ if (wanna_collab) connect_via_links();
 
 <h2>Contribution Brick Breaker</h2>
 
-
-
-https://github.com/user-attachments/assets/a83336e4-0730-442a-b00c-68738ab843e3
-
-
-
+<img src="Brick_Break.gif" width="800">
 
 </div>
 
@@ -194,6 +189,12 @@ https://github.com/user-attachments/assets/a83336e4-0730-442a-b00c-68738ab843e3
 
 
 
+<!-- Snake Game Repo View -->
+## `> repo_snake`
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
