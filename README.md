@@ -178,7 +178,7 @@ if (wanna_collab) connect_via_links();
 ---
 <div align="center">
 
-<h2>🎮 Contribution Brick Breaker</h2>
+<h2>〇 Contribution Brick Breaker</h2>
 
 <p>
 A Brick Breaker game where my GitHub contribution history becomes the level.
@@ -186,17 +186,14 @@ A Brick Breaker game where my GitHub contribution history becomes the level.
 
 <br>
 
-<a href="https://github.com/sumsh123/ContributionBrickBreaker">
+<a href="https://github.com/sumsh123/contribution-brick-breaker">
   <img src="https://img.shields.io/badge/PLAY%20THE%20GAME-ff4fd8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/RAYLIB-C%20PROJECT-7b00ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/GITHUB-CONTRIBUTION%20BASED-22c55e?style=flat-square"/>
-
 </div>
+
 ---
+
 </div>
 
 <a href="https://github.com/sumsh123">
