@@ -20,6 +20,7 @@ overflow: hidden;
 
 </div>
 
+<br>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2600&pause=900&color=00BFFF&center=true&vCenter=true&multiline=false&width=780&height=35&lines=%3E+COMPUTER+SCIENCE+STUDENT+AT+FAST+KHI+%E2%96%88;%3E+AI+|+FULL+STACK+DEV+|+DATA+ANALYSIS++%E2%96%88;%3E+OPEN+TO+OPPORTUNITIES+%E2%96%88" />
@@ -189,13 +190,6 @@ if (wanna_collab) connect_via_links();
 
 
 
-<!-- Snake Game Repo View -->
-## `> repo_snake`
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--credits= GPRM ( https://gprm.itsvg.in ) -->
 
 
