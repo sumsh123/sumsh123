@@ -175,6 +175,17 @@ if (wanna_collab) connect_via_links();
 </p>
 
 
+
+---
+
+</div>
+
+<a href="https://github.com/sumsh123">
+
+<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg" width="900">
+
+</a>
+
 ---
 <div align="center">
 
@@ -192,15 +203,6 @@ A Brick Breaker game where my GitHub contribution history becomes the level.
 
 </div>
 
----
-
-</div>
-
-<a href="https://github.com/sumsh123">
-
-<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg" width="900">
-
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
