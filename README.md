@@ -176,18 +176,21 @@ if (wanna_collab) connect_via_links();
 </p>
 
 
+
+
 ---
 
 <div align="center">
 
-<h2>Contribution Brick Breaker</h2>
-
-<img src="Brick_Break.gif" width="800">
+<img width="1000" height="500" alt="Brick_Break" src="https://github.com/user-attachments/assets/3967bac4-5156-4afe-87ed-cc20bd4d50ee" />
 
 </div>
 
 ---
 
+
+
+<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg">
 
 
 <!--credits= GPRM ( https://gprm.itsvg.in ) -->
