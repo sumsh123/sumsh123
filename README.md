@@ -192,9 +192,9 @@ if (wanna_collab) connect_via_links();
 
 ---
 
-
-
-<img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg">
+<a href="https://summaiyashoaib.netlify.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/sumsh123/neural-core/main/output/neural-core.svg" width="100%" alt="Neural Core">
+</a>
 
 
 <!--credits= GPRM ( https://gprm.itsvg.in ) -->
