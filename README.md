@@ -56,6 +56,12 @@ Python, JavaScript, HTML, CSS, C++, C, R, SQL
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
+
+</div>
+
+<div align="center">
+
+  
 ```ini
 [DESIGN TOOLS]
 Adobe Illustrator, Adobe After Effects, Blender, Canva 
@@ -64,6 +70,9 @@ Adobe Illustrator, Adobe After Effects, Blender, Canva
 [![Adobe After Effects](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
+</div>
+
+<div align="center">
 
 ```ini
 [MACHINE LEARNING & DEEP LEARNING]
