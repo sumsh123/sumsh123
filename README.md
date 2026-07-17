@@ -71,7 +71,6 @@ PyTorch, TensorFlow, Pandas, NumPy, Matplotlib, Plotly
 ```
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) 
 
-
 </div>
 
 <div align="center">
